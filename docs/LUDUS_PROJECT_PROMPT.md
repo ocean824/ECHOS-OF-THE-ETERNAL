@@ -1,0 +1,2 @@
+# Ludus Project Prompt — ECHOS
+Initialize `ocean824/ECHOS-OF-THE-ETERNAL` Unreal client under XYRA. Foundation Narrative Pro 2 + Ultra where useful; Card Creator Pro/Card Games Templates/Card Interface are presentation/prototype accelerators only. The engine-neutral deterministic rules/content service is canonical. Use active CodeSpring manifest; plan, reconcile ownership, implement client integration/presentation, validate golden match transcripts/replay hashes and online behavior, attack/fix, emit evidence. Do not alter card rules/economy/admin publication model without Ø.
