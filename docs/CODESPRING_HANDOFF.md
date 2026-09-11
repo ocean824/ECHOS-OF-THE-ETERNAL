@@ -1,0 +1,2 @@
+# CodeSpring → Ludus
+Every Unreal package declares WP/requirements, rules/content protocol version, objective/non-goals, dependencies, governing/task docs, client targets, acceptance, replay/golden fixtures, network/security tests and rollback. Sync durable docs + active package to `Docs/XYRA`. Branch `feature/ECHOS-WP-XXXX`; Git/LFS for Unreal assets. Rules/admin/server packages may execute outside Ludus but must share the same requirement/evidence lineage. XYRA review gates promotion.
